@@ -1,2 +1,6 @@
 # flying-taco-website
-The Flying Taco, a restaurant in an airplane.
+final project outline
+The Flying Taco, the restaurant in an airplane.
+Jordyn Arroyo Covarrubias
+a new and improved website for a unique mexican restaurant
+HTML, CSS, and Bootstrap 5.3.3
