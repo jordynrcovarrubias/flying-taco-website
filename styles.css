@@ -1,1 +1,41 @@
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
+h1{font-weight:bold;}
+section{color:white;
+  font-size: 
+  24px;
+font-family: arial, sans-serif;
+font-weight: normal;
+background-color:#006341;}
+button{color: white;
+background-color:red;
+box-shadow:white;
+  font-weight:bold;
+}
+h2{color:white;
+  background-color:red;
+font-size:18px;
+font-family:arial,sans-serif;
+font-weight: bold;}
+p{color:white;
+  background-color:red;
+font-size:18px;
+font-family:arial,sans-serif;
+font-weight: bold;}
+h3{color:white;
+  font-size: 
+  24px;
+font-family: arial, sans-serif;
+font-weight: bold;
+background-color:#006341;}
+h4{font-weight:bold;}
+h5{font-size: 
+  24px;
+font-family: arial, sans-serif;
+font-weight: bold;
+background-color:#006341;}
+h6{color:white;
+  font-size: 
+  24px;
+font-family: arial, sans-serif;
+font-weight: bold;
+background-color:#006341;}
