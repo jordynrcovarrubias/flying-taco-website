@@ -22,13 +22,13 @@ font-family:arial,sans-serif;
 font-weight: bold;}
 h3{color:white;
   font-size: 
-  24px;
+  32px;
 font-family: arial, sans-serif;
 font-weight: bold;
 background-color:#006341;}
 h4{font-weight:bold;}
 h5{font-size: 
-  24px;
+  32px;
 font-family: arial, sans-serif;
 font-weight: bold;
 background-color:#006341;}
@@ -39,4 +39,3 @@ font-family: arial, sans-serif;
 font-weight: bold;
 background-color:#006341;}
 <link href="style.css" type="text/css" rel="stylesheet">
-
